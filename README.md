@@ -37,7 +37,7 @@
 
 > Follow this steps only if you have git installed on your machine. 
 > Open a terminal and write this
-> git clone https://github.com/VAJRESH/Particle-Animation.git
+> git clone https://github.com/VAJRESH/MargHealth-Technical-Assesment.git
 
 This will download the file in a folder.
 Navigate to the folder and open terminal in that folder and type to install dependencies
