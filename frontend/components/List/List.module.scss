@@ -1,0 +1,17 @@
+.list {
+  .metaSection {
+    display: flex;
+    height: 50px;
+
+    justify-content: center;
+    align-items: center;
+
+    position: sticky;
+    top: 0;
+    background: #fff;
+
+    div {
+      margin: auto 10px;
+    }
+  }
+}
